@@ -1,0 +1,26 @@
+{
+  "name": "4_talk-is-cheap-show-me-the-code",
+  "version": "1.0.0",
+  "description": "Food Ordering App",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Prashant",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "postcss": "^8.4.33",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.21.2"
+  }
+}
